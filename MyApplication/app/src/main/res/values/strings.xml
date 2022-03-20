@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="welcome">BEM VINDO</string>
+    <string name="introduction_text">Ao Virtual Board Seu local de estudos conectado</string>
+    <string name="bt_next_screen_1">Ir tela Login</string>
+
+
+
+    <string name="bt_next_screen_2">Login</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Senha</string>
+    <string name="recover_password">Esqueci minha senha*</string>
+
+</resources>
