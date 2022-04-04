@@ -3,13 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppVirtualBoard/MyApplication/app/src/main/res/layout/activity_home.xml" value="0.2" />
-        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppVirtualBoard/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.2" />
-        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppVirtualBoard/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.2" />
-        <entry key="..\:/Users/lucas/AndroidStudioProjects/AppVirtualBoard/MyApplication/app/src/main/res/layout/materia_view.xml" value="0.25" />
         <entry key="..\:/Users/lucas/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_home.xml" value="0.1" />
         <entry key="..\:/Users/lucas/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_login.xml" value="0.25" />
         <entry key="..\:/Users/lucas/AndroidStudioProjects/MyApplication/app/src/main/res/layout/activity_main.xml" value="0.18" />
+        <entry key="..\:/Users/lucas/AndroidStudioProjects/appmobile-virtualboard/MyApplication/app/src/main/res/layout/activity_home.xml" value="0.1" />
       </map>
     </option>
   </component>
